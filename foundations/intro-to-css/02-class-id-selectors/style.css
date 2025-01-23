@@ -1,0 +1,21 @@
+.bg-pink {
+    background-color: #ff0066;
+    font-family: 'Verdana', "Dejavu Sans", sans-serif;
+    font-size: 18px;
+}
+
+.bg-pink.cool {
+    font-size: 24px;
+
+}
+
+#div2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#div4 {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
