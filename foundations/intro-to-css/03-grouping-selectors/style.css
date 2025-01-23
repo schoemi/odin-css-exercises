@@ -1,0 +1,17 @@
+.bn-blk, .bn-ylw {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+    border-width: 2px;
+    border-color: grey;
+}
+
+.bn-blk {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.bn-ylw {
+    background-color: yellow;
+    color: black;
+}
